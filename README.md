@@ -8,4 +8,5 @@ não consegui a tela de produtos pq n tinha o vídeo até a data que tinha acess
 
 mas enfim, valeu pelas aulas e obrigado pelas aulas que deu pra gente
 
-outra coisa, eu não sei pq tem uma julia como contribuidora se eu fiz literalmente sozinho e eu fiz o commit pegando o zip e mandando da minha maquina... n sei se ela colocou a conta dela no MAC de padrão ou iniciou um gitignore mas é isto
+outra coisa, eu não sei pq tem uma julia como contribuidora se eu fiz literalmente sozinho e eu fiz o commit pegando o zip e mandando da minha maquina... n sei se ela colocou a conta dela no MAC de padrão ou iniciou um gitignore mas é isto... pode olhar na parte de commits:
+https://github.com/juan-20/Brinquedo/graphs/contributors?from=2020-10-09&to=2020-10-11&type=c
